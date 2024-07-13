@@ -39,3 +39,5 @@ Le FFA ce joue avec des kits. Lors de votre première apparition, et à chaque m
 ## <img src="https://mcapi.marveldc.me/item/egg?version=1.20&#x26;width=64&#x26;height=64" alt="" data-size="line"> Trickster
 
 ## <img src="https://mcapi.marveldc.me/item/bedrock?version=1.20&#x26;width=64&#x26;height=64" alt="" data-size="line"> Fantai
+
+Une copie du kit [#trickster](ffa.md#trickster "mention") mais avec la canne à pêche en seconde main. Spolier: créé par Fantai
