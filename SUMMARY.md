@@ -1,5 +1,6 @@
 # Table of contents
 
+* [🏠 Retour à l'accueil](https://wiki.democraft.fr)
 * [⚠️ WIP](README.md)
 
 ## 🏙️ Villes
@@ -11,7 +12,6 @@
 * [🥈 Silver](https://wiki.democraft.fr/objets-inedits/minerais/silver)
 * [🥉 Ambre](https://wiki.democraft.fr/objets-inedits/minerais/ambre)
 
-## 🍂 Autre
+***
 
-* [🌍 Génération du Monde](autre/generation-du-monde.md)
-* [🏠 Retour à l'accueil](https://wiki.democraft.fr)
+* [🌍 Génération du Monde](generation-du-monde.md)
