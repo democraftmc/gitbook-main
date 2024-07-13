@@ -1,5 +1,6 @@
 # Table of contents
 
+* [🏠 Retour à l'accueil](https://wiki.democraft.fr)
 * [⚠️ WIP](README.md)
 
 ## 💎 Minerais
@@ -12,7 +13,3 @@
 ## 🧱 blocs de décorations <a href="#decoration" id="decoration"></a>
 
 * [Terracota](decoration/terracota.md)
-
-***
-
-* [🏠 Retour à l'accueil](https://wiki.democraft.fr)
