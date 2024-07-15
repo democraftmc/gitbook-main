@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "093abd82d3d2395f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d06787259c5d6719",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7756ccdaae6e526f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pvp/ffa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f09fd57ae44a0920",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9bf68b07411555ea",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fa674ca114c296ea",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fc995eb059d00b57",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b03bd644bd3ca4cd",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ccccab77c1ecd71e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ddd770f21aed51ad",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "pvp/ffa.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7bffcdb8f3f58b92",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "pvp/ffa.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "040b61f9682e2a1d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "pvp/ffa.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7756ccdaae6e526f",
+  "lastOpenFiles": [
+    "uhc/scenarios.md",
+    "uhc/concept.md",
+    "pvp/ffa.md",
+    "pvp/duels/prix.md",
+    "pvp/duels/kits.md",
+    "pvp/duels/README.md",
+    "bedwars/concept.md",
+    "arcade/tnt-tag.md",
+    "arcade/temple-run.md",
+    "arcade/splegg.md",
+    "arcade/quake.md",
+    "arcade/prop-hunt.md",
+    "arcade/party-games.md",
+    "arcade/mini-walls.md",
+    "arcade/bomb-lobbers.md",
+    "/uhc/scenarios.md",
+    "/uhc/concept.md",
+    "/pvp/ffa.md",
+    "/pvp/duels/prix.md",
+    "/pvp/duels/kits.md",
+    "/pvp/duels/README.md",
+    "/bedwars/concept.md",
+    "/arcade/tnt-tag.md",
+    "/arcade/temple-run.md",
+    "/arcade/splegg.md",
+    "/arcade/quake.md",
+    "uhc",
+    "pvp/duels",
+    "pvp",
+    "bedwars",
+    "arcade",
+    "/uhc",
+    "/pvp/duels",
+    "/pvp",
+    "/bedwars",
+    "/arcade"
+  ]
+}
