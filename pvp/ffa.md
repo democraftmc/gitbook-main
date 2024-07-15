@@ -22,6 +22,7 @@ Autre kit classique et sans abilitées, ce kit possède un arche et dix flèches
 Ce kit possède un effet de lenteure, pour contrer son armure en diamant qui lui permet de tank. Pour pouvoir jouer, vous possédez aussi un X qui vous offre un effect temporaire de vitesse - qui contre la lenteure
 
 ## <img src="https://mcapi.marveldc.me/item/arrow?version=1.20&#x26;width=64&#x26;height=64" alt="" data-size="line"> Solider
+Ce kit est similaire 
 
 ## <img src="https://mcapi.marveldc.me/item/tnt?version=1.20&#x26;width=64&#x26;height=64" alt="" data-size="line"> Bomber
 
