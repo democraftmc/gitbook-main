@@ -10,6 +10,7 @@
 * [Silver](minerais/silver.md)
 * [Ambre](minerais/ambre.md)
 
-## 🧱 blocs de décorations <a href="#decoration" id="decoration"></a>
+## 🧱 Décorations <a href="#decoration" id="decoration"></a>
 
-* [Terracota](decoration/terracota.md)
+* [🪨 Terracota](decoration/terracota.md)
+* [🎏 Mobilier](decoration/mobilier.md)
