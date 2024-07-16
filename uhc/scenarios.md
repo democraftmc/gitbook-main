@@ -44,10 +44,9 @@ Chaque équipe a un inventaire partagé accesible avec la commande `/teaminvento
 ## No-Clean
 Done 30 secondes d'invincibilité à chaque kill. Taper un autre joueur supprime cette effet.
 
+### A traduire
 Name | Description
 :---: | ---
-Team Inventory | Each team has an extra inventory that all members from the team can view by using /teaminventory.
-No-Clean | Gives you 30 seconds of invincibility after a kill. Attacking other players will remove this PvP Protection.
 Hastey Boys | Every tool you craft will have Efficiency 3 and Unbreaking 1 by default. You could change the levels of enchantments in `scenarios.yml`.
 Lucky Leaves | Trees have a 0.5% chance of dropping a Golden Apple.
 Bleeding Sweets | On death a player drops 1 diamond, 5 gold, 1 book, 2 string and 16 arrows.
