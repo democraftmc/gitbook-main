@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arcade/prop-hunt.md",
+                "file": "uhc/scenarios.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "arcade/prop-hunt.md",
+            "file": "uhc/scenarios.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "arcade/prop-hunt.md",
+            "file": "uhc/scenarios.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "arcade/prop-hunt.md"
+            "file": "uhc/scenarios.md"
           }
         }
       }
@@ -133,6 +133,10 @@
   },
   "active": "7756ccdaae6e526f",
   "lastOpenFiles": [
+    "arcade/tnt-tag.md",
+    "arcade/bomb-lobbers.md",
+    "arcade/temple-run.md",
+    "arcade/mini-walls.md",
     "arcade/quake.md",
     "arcade/prop-hunt.md",
     "bedwars/concept.md",
@@ -144,12 +148,8 @@
     "uhc/scenarios.md",
     "pvp/ffa.md",
     "SUMMARY.md",
-    "arcade/tnt-tag.md",
-    "arcade/temple-run.md",
     "arcade/splegg.md",
     "arcade/party-games.md",
-    "arcade/mini-walls.md",
-    "arcade/bomb-lobbers.md",
     "/uhc/scenarios.md",
     "/uhc/concept.md",
     "/pvp/ffa.md",
