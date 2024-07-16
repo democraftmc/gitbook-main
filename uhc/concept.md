@@ -11,3 +11,5 @@ Pour pimenter un peu le jeux, il est possible d'ajouter des **scénarios** à l'
 {% hint style="warn" %}
 Pour l'instant, seul les administrateurs peuvent ajouter des scénarios.
 {% endhint %}
+
+La liste des Scénarios disponibles est sur la page suivante.
