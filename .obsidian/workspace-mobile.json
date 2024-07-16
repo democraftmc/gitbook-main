@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uhc/scenarios.md",
+                "file": "arcade/party-games.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "uhc/scenarios.md",
+            "file": "arcade/party-games.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "uhc/scenarios.md",
+            "file": "arcade/party-games.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "uhc/scenarios.md"
+            "file": "arcade/party-games.md"
           }
         }
       }
@@ -133,23 +133,23 @@
   },
   "active": "7756ccdaae6e526f",
   "lastOpenFiles": [
-    "arcade/tnt-tag.md",
     "arcade/bomb-lobbers.md",
-    "arcade/temple-run.md",
-    "arcade/mini-walls.md",
+    "arcade/party-games.md",
     "arcade/quake.md",
+    "arcade/tnt-tag.md",
+    "arcade/temple-run.md",
+    "arcade/splegg.md",
+    "uhc/concept.md",
+    "uhc/scenarios.md",
+    "arcade/mini-walls.md",
     "arcade/prop-hunt.md",
     "bedwars/concept.md",
     "pvp/duels/README.md",
     "pvp/duels/prix.md",
     "pvp/duels/kits.md",
     "README.md",
-    "uhc/concept.md",
-    "uhc/scenarios.md",
     "pvp/ffa.md",
     "SUMMARY.md",
-    "arcade/splegg.md",
-    "arcade/party-games.md",
     "/uhc/scenarios.md",
     "/uhc/concept.md",
     "/pvp/ffa.md",

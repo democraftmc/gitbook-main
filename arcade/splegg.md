@@ -1,2 +1,3 @@
 # ☄️ Splegg
 
+## ℹ️ Fonctionnement
