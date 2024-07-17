@@ -8,7 +8,7 @@ En UHC, vous jouez en **ultra hardcore**. Cela signifie que toute mort est défi
 ## 🪄 Scénarios
 Pour pimenter un peu le jeux, il est possible d'ajouter des **scénarios** à l'UHC
 
-{% hint style="warn" %}
+{% hint style="warning" %}
 Pour l'instant, seul les administrateurs peuvent ajouter des scénarios.
 {% endhint %}
 
