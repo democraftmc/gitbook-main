@@ -7,6 +7,7 @@ Du à des limitations avec Minecraft Bedrock, certaines fonctionnalités du mobi
 Nous travaillons cepandant pour les régler.
 {% endhint %}
 
+Les mobiliers sont 
 
 
 

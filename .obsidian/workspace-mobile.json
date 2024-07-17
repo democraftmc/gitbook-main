@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decoration/mobilier.md",
+                "file": "decoration/terracota.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "decoration/mobilier.md",
+            "file": "decoration/terracota.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "decoration/mobilier.md",
+            "file": "decoration/terracota.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "decoration/mobilier.md"
+            "file": "decoration/terracota.md"
           }
         }
       }
@@ -146,9 +146,9 @@
   },
   "active": "2bbb0e09b2596bfd",
   "lastOpenFiles": [
+    "decoration/mobilier.md",
     "decoration/terracota.md",
     "SUMMARY.md",
-    "decoration/mobilier.md",
     "README.md",
     "minerais/wynarium.md",
     "minerais/silver.md",
